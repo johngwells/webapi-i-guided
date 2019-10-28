@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/LambdaSchool/webapi-i-guided#readme",
   "devDependencies": {
+    "express": "^4.17.1",
     "nodemon": "^1.19.4"
   },
   "dependencies": {
